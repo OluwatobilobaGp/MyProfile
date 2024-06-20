@@ -19,7 +19,7 @@ Like My Work?
 <a href="https://www.buymeacoffee.com/oluwatobilobagp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 
-
+[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 
 ### Talking about Personal Stuffs:
