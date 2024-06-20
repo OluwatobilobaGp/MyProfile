@@ -18,7 +18,6 @@ Like My Work?
 
 <a href="https://www.buymeacoffee.com/oluwatobilobagp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 
@@ -30,7 +29,7 @@ Like My Work?
 
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: asaoluoluwatobijoseph@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/OluwatobilobaGp/MyProfile/blob/main/ASAOLU%20OLUWATOBILOBA%20JOSEPH%20CV.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/OluwatobilobaGp/MyProfile/blob/main/Oluwatobiloba%20Asaolu%20Frontend.pdf).
 
 ### My Absolute Favorites:
 
@@ -79,12 +78,12 @@ Like My Work?
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
+  	    <li><b>OS:</b> Windows 11</li>
 	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
+  	    <li><b>Browser: </b> Chrome Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Stack Overflow, Medium, Linkedin and Twitter.</li>
 	    <br />
 	</ul>	
 </details>
