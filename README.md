@@ -10,9 +10,9 @@
 
 I'm a graduate in Computer Science 🎓 from Temple Gate Polytechnic 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓, having great time learning Blockchain and core principle behinde crypto currency.
 
-Joined Github **2** years ago.
+Joined Github **3** years ago.
 
-Since then I pushed over **200**+ commits, opened over **69**+ issues, submitted over **191**+ pull requests, created over **30**+ gists and contributed to over **4**+ public repositories.
+Since then I pushed over **30**+ commits, opened over **19**+ issues, submitted over **21**+ pull requests, created over **3**+ gists..
 
 Like My Work?
 
@@ -20,7 +20,7 @@ Like My Work?
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 
 ### Talking about Personal Stuffs:
 
